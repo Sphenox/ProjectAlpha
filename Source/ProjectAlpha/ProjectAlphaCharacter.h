@@ -6,6 +6,7 @@
 #include "GameFramework/Character.h"
 #include "ProjectAlphaCharacter.generated.h"
 
+
 UCLASS(Blueprintable)
 class AProjectAlphaCharacter : public ACharacter
 {
